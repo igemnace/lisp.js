@@ -1,0 +1,16 @@
+{
+  "name": "lisp",
+  "version": "1.0.0",
+  "description": "A Lisp interpreter in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "start": "node index.js"
+  },
+  "author": "Ian Emnace <igemnace@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^1.4.1"
+  },
+  "dependencies": {}
+}
