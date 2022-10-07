@@ -10,7 +10,6 @@
   "author": "Ian Emnace <igemnace@gmail.com>",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^3.5.1"
-  },
-  "dependencies": {}
+    "ava": "^4.3.3"
+  }
 }
